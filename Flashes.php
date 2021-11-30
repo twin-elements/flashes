@@ -1,6 +1,6 @@
 <?php
 
-namespace TwinElements\Components\Flashes;
+namespace TwinElements\Component\Flashes;
 
 use Symfony\Component\HttpFoundation\Session\SessionInterface;
 
