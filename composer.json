@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Flashes for PHP applications.",
   "keywords": [
-    "flash"
+    "flashes"
   ],
   "license": "MIT",
   "authors": [
